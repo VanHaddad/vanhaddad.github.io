@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a}));var u=t("q1tI"),o=t.n(u);function a(){return o.a.createElement("div",null,"Future home of VanHaddad.com")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-7854730316bebac644c4.js.map
